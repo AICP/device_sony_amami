@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /*
-** Copyright 2011, The CyanogenMod Project
+** Copyright 2013, AOKP
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
@@ -27,8 +27,6 @@
     <string name="flashDevice">/sys/class/misc/pm8941-flash/device/mode</string>
     <!-- Full path to the sysfs luminosity -->
     <string name="flashDeviceLuminosity">/sys/class/misc/pm8941-flash/device/current1</string>
-    <!-- Full path to the 2nd sysfs luminosity, leave empty if doesn't exist -->
-    <string name="flashDeviceLuminosity2">/sys/class/misc/pm8941-flash/device/current2</string>
 
     <!-- Off setting -->
     <integer name="valueOff">0</integer>
