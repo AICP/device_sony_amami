@@ -1,5 +1,6 @@
 # Copyright (C) 2011 The Android Open Source Project
 # Copyright (C) 2013 The CyanogenMod Project
+# Copyright (C) 2014 The Android Open Kang Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -16,10 +17,6 @@
 TARGET_SCREEN_HEIGHT := 1280
 TARGET_SCREEN_WIDTH := 720
 
-# Torch
-PRODUCT_PACKAGES := \
-    Torch
- 
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
