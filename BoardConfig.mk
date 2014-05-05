@@ -27,6 +27,7 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/amami/bluetooth
 
 # Kernel properties
 TARGET_KERNEL_CONFIG := cm_rhine_amami_row_defconfig
+SOMC_DTS_TARGET := rhine_amami_row
 
 # Partition information
 BOARD_VOLD_MAX_PARTITIONS := 26
