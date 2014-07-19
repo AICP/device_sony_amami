@@ -15,9 +15,9 @@
     "branch":      "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_device_sony_rhine-common",
+    "repository": "AICP/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch":      "cm-11.0"
+    "branch":      "kitkat"
   },
   {
     "repository": "CyanogenMod/android_kernel_sony_msm8974",
