@@ -40,8 +40,8 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "AOKP/vendor_sony",
+    "repository": "TheMuppets/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch":      "kitkat"
+    "branch":      "cm-11.0"
   }
 ]
