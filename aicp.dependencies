@@ -20,9 +20,9 @@
     "branch":      "lp5.0"
   },
   {
-    "repository": "CyanogenMod/android_kernel_sony_msm8974",
+    "repository": "SlimRoms/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch":      "cm-12.0"
+    "branch":      "lp5.0"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
