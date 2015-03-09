@@ -5,11 +5,6 @@
     "branch":      "cm-12.0"
   },
   {
-    "repository": "CyanogenMod/android_device_sony_qcom-common",
-    "target_path": "device/sony/qcom-common",
-    "branch":      "cm-12.0"
-  },
-  {
     "repository": "AICP/device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
     "branch":      "lp5.0"
