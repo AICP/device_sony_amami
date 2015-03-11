@@ -28,5 +28,10 @@
     "repository": "AICP/proprietary_vendor_sony",
     "target_path": "vendor/sony",
     "branch":      "lp5.0"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "branch":      "cm-12.0"
   }
 ]
