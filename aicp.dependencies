@@ -7,12 +7,12 @@
   {
     "repository": "AICP/device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   },
   {
     "repository": "AICP/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   },
   {
     "repository": "SlimRoms/kernel_sony_msm8974",
@@ -27,7 +27,7 @@
   {
     "repository": "AICP/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch":      "lp5.0"
+    "branch":      "lp5.1"
   },
   {
     "repository":  "CyanogenMod/android_hardware_qcom_fm",
