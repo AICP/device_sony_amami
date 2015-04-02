@@ -2,7 +2,7 @@
   {
     "repository": "CyanogenMod/android_device_sony_common",
     "target_path": "device/sony/common",
-    "branch":      "cm-12.0"
+    "branch":      "cm-12.1"
   },
   {
     "repository": "AICP/device_sony_msm8974-common",
@@ -32,6 +32,6 @@
   {
     "repository":  "CyanogenMod/android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm",
-    "branch":      "cm-12.0"
+    "branch":      "cm-12.1"
   }
 ]
