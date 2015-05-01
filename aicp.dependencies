@@ -15,7 +15,7 @@
     "branch":      "lp5.1"
   },
   {
-    "repository": "SlimRoms/kernel_sony_msm8974",
+    "repository": "AICP/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
     "branch":      "lp5.1"
   },
