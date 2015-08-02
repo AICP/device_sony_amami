@@ -16,8 +16,8 @@ TARGET_KERNEL_CONFIG := aosp_rhine_amami_defconfig
 
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/telephony.mk)
-$(call inherit-product, device/sony/common/common.mk)
-$(call inherit-product, device/sony/rhine/device.mk)
+$(call inherit-product, device/sony/common/common_omni.mk)
+$(call inherit-product, device/sony/rhine-common/device.mk)
 $(call inherit-product, vendor/sony/amami/amami-vendor.mk)
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 $(call inherit-product-if-exists, prebuilts/chromium/webview_prebuilt.mk)
