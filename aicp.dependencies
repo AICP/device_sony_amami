@@ -5,9 +5,9 @@
     "branch":      "cm-12.1"
   },
   {
-    "repository": "AICP/device_sony_msm8974-common",
+    "repository": "CyanogenMod/android_device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch":      "lp5.1"
+    "branch":      "cm-12.1"
   },
   {
     "repository": "AICP/device_sony_rhine-common",
@@ -15,9 +15,9 @@
     "branch":      "lp5.1"
   },
   {
-    "repository": "AICP/kernel_sony_msm8974",
+    "repository": "CyanogenMod/android_kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch":      "lp5.1"
+    "branch":      "cm-12.1"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
