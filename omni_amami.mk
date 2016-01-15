@@ -18,6 +18,9 @@ TARGET_KERNEL_SOURCE := kernel/sony/msm
 # Assert
 TARGET_OTA_ASSERT_DEVICE := D5503,amami
 
+# Bootanimation
+TARGET_BOOTANIMATION_SIZE := 1080x720
+
 # TWRP Recovery
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 
