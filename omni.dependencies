@@ -47,6 +47,12 @@
     "target_path":  "hardware/sony/camera",
     "revision":     "android-6.0"
   },
+    {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_dataservices",
+    "target_path":  "hardware/sony/dataservices",
+    "revision":     "android-6.0"
+  },
   {
     "remote":       "omnirom",
     "repository":   "android_packages_apps_Nfc",
