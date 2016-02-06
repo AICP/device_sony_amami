@@ -14,7 +14,7 @@
 
 include device/sony/rhine-common/BoardConfig.mk
 include device/sony/rhine-common/BoardConfigOmni.mk
-include device/sony/common/CommonConfigiOmni.mk
+include device/sony/common/CommonConfigOmni.mk
 
 TARGET_BOOTLOADER_BOARD_NAME := D5503
 
