@@ -35,8 +35,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 # Recovery
 PRODUCT_COPY_FILES += \
-    device/sony/amami/recovery/root/etc/bootrec-device:recovery/root/etc/bootrec-device \
-    device/sony/amami/rootdir/twrp.fstab:recovery/root/etc/twrp.fstab
+    device/sony/amami/recovery/root/etc/bootrec-device:recovery/root/etc/bootrec-device
 
 # Override Product Name for OmniROM
 PRODUCT_NAME := omni_amami
