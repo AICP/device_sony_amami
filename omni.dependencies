@@ -37,6 +37,12 @@
   },
   {
     "remote":       "omnirom",
+    "repository":   "android_hardware_qcom_fm",
+    "target_path":  "hardware/qcom/fm",
+    "revision":     "android-6.0"
+  },
+  {
+    "remote":       "omnirom",
     "repository":   "android_hardware_qcom_gps",
     "target_path":  "hardware/qcom/gps",
     "revision":     "android-6.0"
