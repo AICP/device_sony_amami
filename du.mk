@@ -24,13 +24,13 @@ BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 # Inherit AOSP Rhine common device parts
 $(call inherit-product, device/sony/amami/aosp_d5503.mk)
 
-# Inherit Omni GSM telephony parts
+# Inherit DU GSM telephony parts
 $(call inherit-product, device/sony/common/radio.mk)
-$(call inherit-product, vendor/omni/config/gsm.mk)
+$(call inherit-product, vendor/du/config/gsm.mk)
 
-# Inherit Omni product configuration
-$(call inherit-product, vendor/omni/config/common.mk)
+# Inherit DU product configuration
+$(call inherit-product, vendor/du/config/common.mk)
 
-# Override Product Name for OmniROM
-PRODUCT_NAME := omni_amami
+# Override Product Name for DU
+PRODUCT_NAME := du_amami
 PRODUCT_MODEL := Xperia Z1 Compact
