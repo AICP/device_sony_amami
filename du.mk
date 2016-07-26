@@ -25,11 +25,8 @@ BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 $(call inherit-product, device/sony/amami/aosp_d5503.mk)
 
 # Inherit DU GSM telephony parts
-$(call inherit-product, device/sony/common/radio.mk)
+PRODUCT_PROPERTY_OVERRIDES += telephony.lteOnGSMDevice=1
 $(call inherit-product, vendor/du/config/gsm.mk)
-
-# Inherit DU product configuration
-$(call inherit-product, vendor/du/config/common.mk)
 
 # Override Product Name for DU
 PRODUCT_NAME := du_amami
