@@ -14,5 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_d5503-userdebug
-add_lunch_combo du_amami-userdebug
+add_lunch_combo aicp_amami-userdebug
