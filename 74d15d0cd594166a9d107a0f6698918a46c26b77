@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da2a55be_9ed94986",
+        "filename": "aicp.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2016-08-09T12:49:02Z",
+      "side": 1,
+      "message": "Not really sure If omni repo\u0027s are fine with CM\u0027s used on AICP...",
+      "revId": "74d15d0cd594166a9d107a0f6698918a46c26b77",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
+    }
+  ]
+}
