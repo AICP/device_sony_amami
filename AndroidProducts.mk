@@ -13,5 +13,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aosp_d5503.mk \
-	$(LOCAL_DIR)/omni_amami.mk
+	$(LOCAL_DIR)/aicp.mk

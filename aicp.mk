@@ -12,9 +12,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-include device/sony/rhine-common-omni/PlatformConfigOmni.mk
+# Assert
+TARGET_OTA_ASSERT_DEVICE := D5503,amami
 
-TARGET_BOOTLOADER_BOARD_NAME := D5503
+# TWRP Recovery
+BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 
-BOARD_KERNEL_CMDLINE += androidboot.hardware=amami
-BOARD_KERNEL_CMDLINE += mem=1767M
+# Inherit AOSP Rhine common device parts
+$(call inherit-product, device/sony/amami/aosp_d5503.mk)
+
+# Inherit GSM telephony parts
+PRODUCT_PROPERTY_OVERRIDES += telephony.lteOnGSMDevice=1
+$(call inherit-product, vendor/aicp/configs/gsm.mk)
