@@ -11,7 +11,7 @@
   },
   {
     "repository":   "omnirom/android_hardware_sony_camera",
-    "target_path":  "hardware/qcom/media",
+    "target_path":  "hardware/sony/camera",
     "revision":     "android-6.0"
   },
   {
