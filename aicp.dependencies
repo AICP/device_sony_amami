@@ -10,9 +10,29 @@
     "revision":     "mm6.0"
   },
   {
-    "repository":   "omnirom/android_hardware_sony_camera",
-    "target_path":  "hardware/sony/camera",
+    "repository":   "omnirom/android_device_sony_common-headers",
+    "target_path":  "device/sony/common-headers",
     "revision":     "android-6.0"
+  },
+  {
+    "repository":   "omnirom/android_device_sony_sepolicy",
+    "target_path":  "device/sony/sepolicy",
+    "revision":     "android-6.0"
+  },
+  {
+    "repository":   "SpiritCroc/platform_vendor_sony",
+    "target_path":  "vendor/sony",
+    "revision":     "mm6.0"
+  },
+  {
+    "repository":   "sony-aicp-mm/platform_vendor_qcom",
+    "target_path":  "vendor/qcom/sony",
+    "revision":     "mm6.0"
+  },
+  {
+    "repository":   "sony-aicp-mm/platform_vendor_qcom_proprietary",
+    "target_path":  "vendor/qcom/sony/proprietary",
+    "revision":     "mm6.0"
   },
   {
     "repository":   "omnirom/android_kernel_sony_msm",
@@ -20,8 +40,8 @@
     "revision":     "android-6.0"
   },
   {
-    "repository":   "omnirom/android_device_sony_common-headers",
-    "target_path":  "device/sony/common-headers",
+    "repository":   "omnirom/android_hardware_sony_camera",
+    "target_path":  "hardware/sony/camera",
     "revision":     "android-6.0"
   },
   {
@@ -43,30 +63,5 @@
     "repository":   "omnirom/android_hardware_sony_macaddrsetup",
     "target_path":  "hardware/sony/macaddrsetup",
     "revision":     "android-6.0"
-  },
-  {
-    "repository":   "omnirom/android_device_sony_sepolicy",
-    "target_path":  "device/sony/sepolicy",
-    "revision":     "android-6.0"
-  },
-  {
-    "repository":   "omnirom/android_hardware_qcom_media",
-    "target_path":  "hardware/qcom/media",
-    "revision":     "android-6.0"
-  },
-  {
-    "repository":   "SpiritCroc/platform_vendor_sony",
-    "target_path":  "vendor/sony",
-    "revision":     "mm6.0"
-  },
-  {
-    "repository":   "sony-aicp-mm/platform_vendor_qcom",
-    "target_path":  "vendor/qcom/sony",
-    "revision":     "mm6.0"
-  },
-  {
-    "repository":   "sony-aicp-mm/platform_vendor_qcom_proprietary",
-    "target_path":  "vendor/qcom/sony/proprietary",
-    "revision":     "mm6.0"
   }
 ]
