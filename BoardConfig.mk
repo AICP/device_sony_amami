@@ -12,9 +12,15 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-include device/sony/rhine-common-omni/PlatformConfigOmni.mk
+include device/sony/rhine-common/PlatformConfigOmni.mk
 
 TARGET_BOOTLOADER_BOARD_NAME := D5503
 
 BOARD_KERNEL_CMDLINE += androidboot.hardware=amami
 BOARD_KERNEL_CMDLINE += mem=1767M
+
+# Assert
+TARGET_OTA_ASSERT_DEVICE := D5503,amami
+
+# TWRP Recovery
+BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"

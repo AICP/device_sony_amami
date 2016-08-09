@@ -1,7 +1,0 @@
-[
-  {
-    "repository":   "AICP/device_sony_rhine-common",
-    "target_path":  "device/sony/rhine-common-omni",
-    "revision":     "mm6.0-omni"
-  }
-]
