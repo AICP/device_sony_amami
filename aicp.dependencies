@@ -2,66 +2,66 @@
   {
     "repository":   "AICP/device_sony_rhine-common",
     "target_path":  "device/sony/rhine-common",
-    "revision":     "mm6.0"
+    "branch":       "mm6.0"
   },
   {
     "repository":   "AICP/device_sony_common",
     "target_path":  "device/sony/common",
-    "revision":     "mm6.0"
+    "branch":       "mm6.0"
   },
   {
     "repository":   "omnirom/android_device_sony_common-headers",
     "target_path":  "device/sony/common-headers",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "omnirom/android_device_sony_sepolicy",
     "target_path":  "device/sony/sepolicy",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "SpiritCroc/platform_vendor_sony",
     "target_path":  "vendor/sony",
-    "revision":     "mm6.0"
+    "branch":       "mm6.0"
   },
   {
     "repository":   "sony-aicp-mm/platform_vendor_qcom",
     "target_path":  "vendor/qcom/sony",
-    "revision":     "mm6.0"
+    "branch":       "mm6.0"
   },
   {
     "repository":   "sony-aicp-mm/platform_vendor_qcom_proprietary",
     "target_path":  "vendor/qcom/sony/proprietary",
-    "revision":     "mm6.0"
+    "branch":       "mm6.0"
   },
   {
     "repository":   "omnirom/android_kernel_sony_msm",
     "target_path":  "kernel/sony/msm",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "omnirom/android_hardware_sony_camera",
     "target_path":  "hardware/sony/camera",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "omnirom/android_hardware_sony_dataservices",
     "target_path":  "hardware/sony/dataservices",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "omnirom/android_hardware_sony_thermanager",
     "target_path":  "hardware/sony/thermanager",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "omnirom/android_hardware_sony_timekeep",
     "target_path":  "hardware/sony/timekeep",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "omnirom/android_hardware_sony_macaddrsetup",
     "target_path":  "hardware/sony/macaddrsetup",
-    "revision":     "android-6.0"
+    "branch":       "android-6.0"
   }
 ]
