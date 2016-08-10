@@ -24,3 +24,7 @@ $(call inherit-product, device/sony/amami/aosp_d5503.mk)
 # Inherit GSM telephony parts
 PRODUCT_PROPERTY_OVERRIDES += telephony.lteOnGSMDevice=1
 $(call inherit-product, vendor/aicp/configs/gsm.mk)
+
+# Override Product Name for AICP
+PRODUCT_NAME := aicp_amami
+PRODUCT_MODEL := Xperia Z1 Compact
