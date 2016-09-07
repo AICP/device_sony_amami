@@ -1,0 +1,87 @@
+[
+  {
+    "repository":   "AICP/device_sony_rhine-common",
+    "target_path":  "device/sony/rhine-common",
+    "branch":       "n7.0"
+  },
+  {
+    "repository":   "AICP/device_sony_common",
+    "target_path":  "device/sony/common",
+    "branch":       "n7.0"
+  },
+  {
+    "repository":   "sonyxperiadev/device-sony-common-headers",
+    "target_path":  "device/sony/common-headers",
+    "branch":       "aosp/LA.BR.1.3.3_rb2.14"
+  },
+  {
+    "repository":   "sonyxperiadev/device-sony-common-init",
+    "target_path":  "device/sony/common-init",
+    "branch":       "master"
+  },
+  {
+    "repository":   "sonyxperiadev/device-sony-sepolicy",
+    "target_path":  "device/sony/sepolicy",
+    "branch":       "master"
+  },
+  {
+    "repository":   "SpiritCroc/android_kernel_sony_msm",
+    "target_path":  "kernel/sony/msm",
+    "branch":       "AICP-n7.0-sony"
+  },
+  {
+    "repository":   "SpiritCroc/android_hardware_sony_display",
+    "target_path":  "hardware/sony/display",
+    "branch":       "AICP-n7.0-sonycm"
+  },
+  {
+    "repository":   "SpiritCroc/android_hardware_sony_camera",
+    "target_path":  "hardware/sony/camera",
+    "branch":       "AICP-n7.0-sonycm"
+  },
+  {
+    "repository":   "sonyxperiadev/vendor-qcom-opensource-dataservices",
+    "target_path":  "hardware/sony/dataservice",
+    "branch":       "master"
+  },
+  {
+    "repository":   "sonyxperiadev/thermanager",
+    "target_path":  "hardware/sony/thermanager",
+    "branch":       "master"
+  },
+  {
+    "repository":   "sonyxperiadev/macaddrsetup",
+    "target_path":  "hardware/sony/macaddrsetup",
+    "branch":       "master"
+  },
+  {
+    "repository":   "sonyxperiadev/timekeep",
+    "target_path":  "hardware/sony/timekeep",
+    "branch":       "master"
+  },
+  {
+    "repository":   "SpiritCroc/android_vendor_sony",
+    "target_path":  "vendor/sony",
+    "branch":       "aosp-7.0"
+  },
+  {
+    "repository":   "SpiritCroc/android_vendor_qcom_prebuilt",
+    "target_path":  "vendor/qcom/prebuilt",
+    "branch":       "aosp-7.0"
+  },
+  {
+    "repository":   "SpiritCroc/android_vendor_qcom_firmware",
+    "target_path":  "vendor/qcom/firmware",
+    "branch":       "aosp-7.0"
+  },
+  {
+    "repository":   "SpiritCroc/android_vendor_qcom_extras",
+    "target_path":  "vendor/qcom/extras",
+    "branch":       "AICP-n7.0-sonycm"
+  },
+  {
+    "repository":   "SpiritCroc/android_packages_apps_ExtendedSettings",
+    "target_path":  "packages/apps/ExtendedSettings",
+    "branch":       "AICP-n7.0-sony"
+  }
+]
