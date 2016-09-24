@@ -35,9 +35,9 @@
     "branch":       "mm6.0"
   },
   {
-    "repository":   "omnirom/android_kernel_sony_msm",
+    "repository":   "sonyxperiadev/kernel",
     "target_path":  "kernel/sony/msm",
-    "branch":       "android-6.0"
+    "branch":       "aosp/LA.BF64.1.2.2_rb4.7"
   },
   {
     "repository":   "SpiritCroc/android_hardware_sony_camera",
