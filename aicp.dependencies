@@ -20,29 +20,34 @@
     "branch":       "android-6.0"
   },
   {
-    "repository":   "SpiritCroc/platform_vendor_sony",
+    "repository":   "SpiritCroc/android_vendor_sony",
     "target_path":  "vendor/sony",
-    "branch":       "mm6.0"
+    "branch":       "aosp-6.0.1"
   },
   {
-    "repository":   "sony-aicp-mm/platform_vendor_qcom",
-    "target_path":  "vendor/qcom/sony",
-    "branch":       "mm6.0"
+    "repository":   "SpiritCroc/android_vendor_qcom_prebuilt",
+    "target_path":  "vendor/qcom/prebuilt",
+    "branch":       "aosp-6.0.1"
   },
   {
-    "repository":   "sony-aicp-mm/platform_vendor_qcom_proprietary",
-    "target_path":  "vendor/qcom/sony/proprietary",
-    "branch":       "mm6.0"
+    "repository":   "SpiritCroc/android_vendor_qcom_firmware",
+    "target_path":  "vendor/qcom/firmware",
+    "branch":       "aosp-6.0"
   },
   {
-    "repository":   "sonyxperiadev/kernel",
+    "repository":   "omnirom/android_kernel_sony_msm",
     "target_path":  "kernel/sony/msm",
-    "branch":       "aosp/LA.BF64.1.2.2_rb4.7"
+    "branch":       "android-6.0"
   },
   {
     "repository":   "SpiritCroc/android_hardware_sony_camera",
     "target_path":  "hardware/sony/camera",
-    "branch":       "AICP-mm6.0"
+    "branch":       "AICP-mm6.0.1"
+  },
+  {
+    "repository":   "SpiritCroc/android_hardware_sony_display",
+    "target_path":  "hardware/sony/display",
+    "branch":       "AICP-mm6.0.1"
   },
   {
     "repository":   "omnirom/android_hardware_sony_dataservices",
