@@ -22,7 +22,7 @@
   {
     "repository":   "sonyxperiadev/device-sony-sepolicy",
     "target_path":  "device/sony/sepolicy",
-    "branch":       "master"
+    "branch":       "n-mr0"
   },
   {
     "repository":   "SpiritCroc/android_kernel_sony_msm",
