@@ -10,11 +10,6 @@
     "branch":       "n7.0"
   },
   {
-    "repository":   "sonyxperiadev/device-sony-common-headers",
-    "target_path":  "device/sony/common-headers",
-    "branch":       "aosp/LA.BR.1.3.3_rb2.14"
-  },
-  {
     "repository":   "sonyxperiadev/device-sony-common-init",
     "target_path":  "device/sony/common-init",
     "branch":       "master"
@@ -25,9 +20,9 @@
     "branch":       "n-mr0"
   },
   {
-    "repository":   "SpiritCroc/android_kernel_sony_msm",
+    "repository":   "sonyxperiadev/kernel",
     "target_path":  "kernel/sony/msm",
-    "branch":       "AICP-n7.0-sony"
+    "branch":       "aosp/LA.BR.1.3.3_rb2.14"
   },
   {
     "repository":   "SpiritCroc/android_hardware_sony_display",
