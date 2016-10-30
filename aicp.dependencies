@@ -2,12 +2,12 @@
   {
     "repository":   "AICP/device_sony_rhine-common",
     "target_path":  "device/sony/rhine-common",
-    "branch":       "n7.0"
+    "branch":       "n7.1"
   },
   {
     "repository":   "AICP/device_sony_common",
     "target_path":  "device/sony/common",
-    "branch":       "n7.0"
+    "branch":       "n7.1"
   },
   {
     "repository":   "sonyxperiadev/device-sony-common-init",
@@ -27,12 +27,12 @@
   {
     "repository":   "SpiritCroc/android_hardware_sony_display",
     "target_path":  "hardware/sony/display",
-    "branch":       "AICP-n7.0-sonycm"
+    "branch":       "AICP-n7.1-sonycm"
   },
   {
     "repository":   "SpiritCroc/android_hardware_sony_camera",
     "target_path":  "hardware/sony/camera",
-    "branch":       "AICP-n7.0-sonycm"
+    "branch":       "AICP-n7.1-sonycm"
   },
   {
     "repository":   "sonyxperiadev/vendor-qcom-opensource-dataservices",
@@ -57,26 +57,26 @@
   {
     "repository":   "SpiritCroc/android_vendor_sony",
     "target_path":  "vendor/sony",
-    "branch":       "aosp-7.0"
+    "branch":       "aosp-7.1"
   },
   {
     "repository":   "SpiritCroc/android_vendor_qcom_prebuilt",
     "target_path":  "vendor/qcom/prebuilt",
-    "branch":       "aosp-7.0"
+    "branch":       "aosp-7.1"
   },
   {
     "repository":   "SpiritCroc/android_vendor_qcom_firmware",
     "target_path":  "vendor/qcom/firmware",
-    "branch":       "aosp-7.0"
+    "branch":       "aosp-7.1"
   },
   {
     "repository":   "SpiritCroc/android_vendor_qcom_extras",
     "target_path":  "vendor/qcom/extras",
-    "branch":       "AICP-n7.0-sonycm"
+    "branch":       "AICP-n7.1-sonycm"
   },
   {
     "repository":   "SpiritCroc/android_packages_apps_ExtendedSettings",
     "target_path":  "packages/apps/ExtendedSettings",
-    "branch":       "AICP-n7.0-sony"
+    "branch":       "AICP-n7.1-sony"
   }
 ]
