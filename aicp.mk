@@ -15,6 +15,9 @@
 # Assert
 TARGET_OTA_ASSERT_DEVICE := D5503,amami
 
+# TWRP Recovery
+BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
+
 # Inherit AOSP Rhine common device parts
 $(call inherit-product, device/sony/amami/aosp_d5503.mk)
 
