@@ -55,28 +55,28 @@
     "branch":       "master"
   },
   {
-    "repository":   "SpiritCroc/android_vendor_sony",
-    "target_path":  "vendor/sony",
-    "branch":       "aosp-7.1"
-  },
-  {
-    "repository":   "SpiritCroc/android_vendor_qcom_prebuilt",
-    "target_path":  "vendor/qcom/prebuilt",
-    "branch":       "aosp-7.1"
-  },
-  {
-    "repository":   "SpiritCroc/android_vendor_qcom_firmware",
-    "target_path":  "vendor/qcom/firmware",
-    "branch":       "aosp-7.1"
-  },
-  {
-    "repository":   "SpiritCroc/android_vendor_qcom_extras",
-    "target_path":  "vendor/qcom/extras",
-    "branch":       "AICP-n7.1-sonycm"
-  },
-  {
     "repository":   "SpiritCroc/android_packages_apps_ExtendedSettings",
     "target_path":  "packages/apps/ExtendedSettings",
     "branch":       "AICP-n7.1-sony"
+  },
+  {
+    "repository":   "SatyrBen/vendor-sony",
+    "target_path":  "vendor/sony",
+    "branch":       "android-6.0.1"
+  },
+  {
+    "repository":   "SatyrBen/vendor-qcom-prebuilt",
+    "target_path":  "vendor/qcom/prebuilt",
+    "branch":       "android-6.0.1"
+  },
+  {
+    "repository":   "SatyrBen/vendor-qcom-firmware",
+    "target_path":  "vendor/qcom/firmware",
+    "branch":       "master"
+  },
+  {
+    "repository":   "SatyrBen/vendor-qcom-extras",
+    "target_path":  "vendor/qcom/extras",
+    "branch":       "master"
   }
 ]
