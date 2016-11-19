@@ -20,19 +20,19 @@
     "branch":       "android-6.0"
   },
   {
-    "repository":   "SpiritCroc/android_vendor_sony",
+    "repository":   "SatyrBen/vendor-sony",
     "target_path":  "vendor/sony",
-    "branch":       "aosp-6.0.1"
+    "branch":       "android-6.0.1"
   },
   {
-    "repository":   "SpiritCroc/android_vendor_qcom_prebuilt",
+    "repository":   "SatyrBen/vendor-qcom-prebuilt",
     "target_path":  "vendor/qcom/prebuilt",
-    "branch":       "aosp-6.0.1"
+    "branch":       "android-6.0.1"
   },
   {
-    "repository":   "SpiritCroc/android_vendor_qcom_firmware",
+    "repository":   "SatyrBen/vendor-qcom-firmware",
     "target_path":  "vendor/qcom/firmware",
-    "branch":       "aosp-6.0"
+    "branch":       "master"
   },
   {
     "repository":   "omnirom/android_kernel_sony_msm",
