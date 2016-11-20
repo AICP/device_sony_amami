@@ -73,10 +73,5 @@
     "repository":   "SatyrBen/vendor-qcom-firmware",
     "target_path":  "vendor/qcom/firmware",
     "branch":       "master"
-  },
-  {
-    "repository":   "SatyrBen/vendor-qcom-extras",
-    "target_path":  "vendor/qcom/extras",
-    "branch":       "master"
   }
 ]
