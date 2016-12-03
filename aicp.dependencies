@@ -15,9 +15,9 @@
     "branch":       "master"
   },
   {
-    "repository":   "sonyxperiadev/device-sony-sepolicy",
+    "repository":   "SpiritCroc/android_device_sony_sepolicy",
     "target_path":  "device/sony/sepolicy",
-    "branch":       "n-mr0"
+    "branch":       "AICP-n7.1-sony"
   },
   {
     "repository":   "sonyxperiadev/kernel",
