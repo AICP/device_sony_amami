@@ -35,6 +35,21 @@
     "branch":       "AICP-n7.1-sonycm"
   },
   {
+    "repository":   "SonyCM/android_hardware_qcom_audio",
+    "target_path":  "hardware/qcom/audio/default",
+    "branch":       "cm-14.1"
+  },
+  {
+    "repository":   "SonyCM/android_hardware_qcom_media",
+    "target_path":  "hardware/qcom/media",
+    "branch":       "cm-14.1"
+  },
+  {
+    "repository":   "sonyxperiadev/vendor-qcom-opensource-fm",
+    "target_path":  "hardware/qcom/fm",
+    "branch":       "master"
+  },
+  {
     "repository":   "sonyxperiadev/vendor-qcom-opensource-dataservices",
     "target_path":  "hardware/sony/dataservice",
     "branch":       "master"
@@ -52,6 +67,11 @@
   {
     "repository":   "sonyxperiadev/timekeep",
     "target_path":  "hardware/sony/timekeep",
+    "branch":       "master"
+  },
+  {
+    "repository":   "sonyxperiadev/packages-apps-FMRadio",
+    "target_path":  "packages/apps/FMRadio",
     "branch":       "master"
   },
   {
