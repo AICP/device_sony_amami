@@ -55,9 +55,9 @@
     "branch":       "master"
   },
   {
-    "repository":   "SpiritCroc/android_packages_apps_ExtendedSettings",
+    "repository":   "sonyxperiadev/packages_apps_ExtendedSettings",
     "target_path":  "packages/apps/ExtendedSettings",
-    "branch":       "AICP-n7.1-sony"
+    "branch":       "master"
   },
   {
     "repository":   "SatyrBen/vendor-sony",
