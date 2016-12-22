@@ -51,7 +51,7 @@
   },
   {
     "repository":   "sonyxperiadev/vendor-qcom-opensource-dataservices",
-    "target_path":  "hardware/sony/dataservice",
+    "target_path":  "hardware/sony/dataservices",
     "branch":       "master"
   },
   {
