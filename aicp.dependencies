@@ -35,12 +35,12 @@
     "branch":       "AICP-n7.1-sonycm"
   },
   {
-    "repository":   "SonyCM/android_hardware_qcom_audio",
+    "repository":   "SonyLOS/android_hardware_qcom_audio",
     "target_path":  "hardware/qcom/audio/default",
     "branch":       "cm-14.1"
   },
   {
-    "repository":   "SonyCM/android_hardware_qcom_media",
+    "repository":   "SonyLOS/android_hardware_qcom_media",
     "target_path":  "hardware/qcom/media",
     "branch":       "cm-14.1"
   },
