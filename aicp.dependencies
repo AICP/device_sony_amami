@@ -5,36 +5,6 @@
     "branch":       "n7.1"
   },
   {
-    "repository":   "AICP/device_sony_common",
-    "target_path":  "device/sony/common",
-    "branch":       "n7.1"
-  },
-  {
-    "repository":   "sonyxperiadev/device-sony-common-init",
-    "target_path":  "device/sony/common-init",
-    "branch":       "master"
-  },
-  {
-    "repository":   "SpiritCroc/android_device_sony_sepolicy",
-    "target_path":  "device/sony/sepolicy",
-    "branch":       "AICP-n7.1-sony"
-  },
-  {
-    "repository":   "SpiritCroc/android_kernel_sony_msm",
-    "target_path":  "kernel/sony/msm",
-    "branch":       "AICP-n7.1-sony"
-  },
-  {
-    "repository":   "SpiritCroc/android_hardware_sony_display",
-    "target_path":  "hardware/sony/display",
-    "branch":       "AICP-n7.1-sonycm"
-  },
-  {
-    "repository":   "SpiritCroc/android_hardware_sony_camera",
-    "target_path":  "hardware/sony/camera",
-    "branch":       "AICP-n7.1-sonycm"
-  },
-  {
     "repository":   "SonyLOS/android_hardware_qcom_audio",
     "target_path":  "hardware/qcom/audio/default",
     "branch":       "cm-14.1"
@@ -50,48 +20,8 @@
     "branch":       "master"
   },
   {
-    "repository":   "sonyxperiadev/vendor-qcom-opensource-dataservices",
-    "target_path":  "hardware/sony/dataservices",
-    "branch":       "master"
-  },
-  {
-    "repository":   "sonyxperiadev/thermanager",
-    "target_path":  "hardware/sony/thermanager",
-    "branch":       "master"
-  },
-  {
-    "repository":   "sonyxperiadev/macaddrsetup",
-    "target_path":  "hardware/sony/macaddrsetup",
-    "branch":       "master"
-  },
-  {
-    "repository":   "sonyxperiadev/timekeep",
-    "target_path":  "hardware/sony/timekeep",
-    "branch":       "master"
-  },
-  {
     "repository":   "sonyxperiadev/packages-apps-FMRadio",
     "target_path":  "packages/apps/FMRadio",
-    "branch":       "master"
-  },
-  {
-    "repository":   "sonyxperiadev/packages_apps_ExtendedSettings",
-    "target_path":  "packages/apps/ExtendedSettings",
-    "branch":       "master"
-  },
-  {
-    "repository":   "SatyrBen/vendor-sony",
-    "target_path":  "vendor/sony",
-    "branch":       "android-6.0.1"
-  },
-  {
-    "repository":   "SatyrBen/vendor-qcom-prebuilt",
-    "target_path":  "vendor/qcom/prebuilt",
-    "branch":       "android-6.0.1"
-  },
-  {
-    "repository":   "SatyrBen/vendor-qcom-firmware",
-    "target_path":  "vendor/qcom/firmware",
     "branch":       "master"
   }
 ]
