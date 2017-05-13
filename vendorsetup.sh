@@ -1,2 +1,2 @@
-add_lunch_combo cm_amami-eng
-add_lunch_combo cm_amami-userdebug
+add_lunch_combo lineage_amami-eng
+add_lunch_combo lineage_amami-userdebug
