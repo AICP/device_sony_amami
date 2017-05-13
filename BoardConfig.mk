@@ -21,8 +21,6 @@ include device/sony/rhine-common/BoardConfigCommon.mk
 # Assert
 TARGET_OTA_ASSERT_DEVICE := D5503,amami,anami
 
-TARGET_BOOTLOADER_BOARD_NAME := D5503
-
 TARGET_SPECIFIC_HEADER_PATH += device/sony/amami/include
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/amami/bluetooth
