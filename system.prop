@@ -5,3 +5,13 @@ ro.sf.lcd_density=320
 ro.usb.pid_suffix=1A7
 
 ro.use_data_netmgrd=true
+
+# Semc
+ro.semc.product.model=D5503
+ro.semc.ms_type_id=PM-0640-BV
+ro.semc.version.fs=GLOBAL-LTE
+ro.semc.product.name=Xperia Z1 Compact
+ro.semc.product.device=D55
+ro.semc.version.cust=1279-6214
+ro.semc.version.cust_revision=R3D
+
