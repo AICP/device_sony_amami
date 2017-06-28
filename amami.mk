@@ -47,7 +47,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
    $(LOCAL_PATH)/thermanager.xml:system/etc/thermanager.xml
 
-TARGET_SYSTEM_PROP += device/sony/honami/system.prop
+TARGET_SYSTEM_PROP += device/sony/amami/system.prop
 
 # call dalvik heap config
 $(call inherit-product, frameworks/native/build/phone-xxhdpi-2048-dalvik-heap.mk)
