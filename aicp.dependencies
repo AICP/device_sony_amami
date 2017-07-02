@@ -1,0 +1,58 @@
+[
+  {
+    "repository": "SuperLamic/android_device_sony_rhine-common",
+    "target_path": "device/sony/rhine-common",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "SpiritCroc/android_kernel_sony_msm8974",
+    "target_path": "kernel/sony/msm8974",
+    "branch": "AICP-n7.1-laos"
+  },
+  {
+    "repository": "SuperLamic/android_device_sony_msm8974-common",
+    "target_path": "device/sony/msm8974-common",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "branch": "cm-14.1"
+  },
+  {
+
+    "repository": "LineageOS/android_hardware_sony_macaddrsetup",
+    "target_path": "hardware/sony/macaddrsetup",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "SuperLamic/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "branch": "amami"
+  }
+]
