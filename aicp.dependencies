@@ -51,8 +51,8 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "SuperLamic/proprietary_vendor_sony",
+    "repository": "SpiritCroc/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch": "amami"
+    "branch": "AICP-n7.1-laos"
   }
 ]
