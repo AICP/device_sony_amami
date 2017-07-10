@@ -41,11 +41,11 @@ PRODUCT_COPY_FILES += \
 
 # Sensors
 PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf
+   $(LOCAL_PATH)/configs/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf
 
 # Thermal manager
 PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/thermanager.xml:system/etc/thermanager.xml
+   $(LOCAL_PATH)/configs/thermanager.xml:system/etc/thermanager.xml
 
 TARGET_SYSTEM_PROP += device/sony/amami/system.prop
 
