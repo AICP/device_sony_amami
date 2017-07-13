@@ -1,8 +1,8 @@
 [
   {
-    "repository": "SuperLamic/android_device_sony_rhine-common",
+    "repository": "SpiritCroc/android_device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch": "cm-14.1"
+    "branch": "AICP-n7.1-laos"
   },
   {
     "repository": "SpiritCroc/android_kernel_sony_msm8974",
@@ -10,9 +10,9 @@
     "branch": "AICP-n7.1-laos"
   },
   {
-    "repository": "SuperLamic/android_device_sony_msm8974-common",
+    "repository": "SpiritCroc/android_device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch": "cm-14.1"
+    "branch": "AICP-n7.1-laos"
   },
   {
     "repository": "LineageOS/android_external_sony_boringssl-compat",
@@ -51,8 +51,8 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "SuperLamic/proprietary_vendor_sony",
+    "repository": "SpiritCroc/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch": "amami"
+    "branch": "AICP-n7.1-laos"
   }
 ]
