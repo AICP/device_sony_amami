@@ -41,11 +41,6 @@
     "branch": "cm-14.1"
   },
   {
-    "repository": "LineageOS/android_hardware_sony_timekeep",
-    "target_path": "hardware/sony/timekeep",
-    "branch": "cm-14.1"
-  },
-  {
     "repository": "LineageOS/android_external_stlport",
     "target_path": "external/stlport",
     "branch": "cm-14.1"
