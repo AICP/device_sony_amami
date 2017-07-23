@@ -2,7 +2,7 @@
   {
     "repository":   "AICP/device_sony_rhine-common",
     "target_path":  "device/sony/rhine-common",
-    "branch":       "n7.1"
+    "branch":       "n7.1-aosp"
   },
   {
     "repository":   "SonyLOS/android_hardware_qcom_audio",
