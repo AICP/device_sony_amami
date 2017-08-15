@@ -379,13 +379,6 @@
         <ctl name="INTERNAL_FM_RX Audio Mixer MultiMedia5" value="1" />
     </path>
 
-    <path name="low-latency-playback incall-music">
-    </path>
-
-    <path name="low-latency-playback incall-music-bt">
-        <path name="low-latency-playback incall-music" />
-    </path>
-
     <path name="audio-ull-playback">
         <ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia3" value="1" />
     </path>
