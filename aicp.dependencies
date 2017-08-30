@@ -2,17 +2,17 @@
   {
     "repository": "AICP/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch": "n7.1"
+    "branch": "o8.0"
   },
   {
     "repository": "AICP/kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "branch": "n7.1"
+    "branch": "o8.0"
   },
   {
     "repository": "AICP/device_sony_msm8974-common",
     "target_path": "device/sony/msm8974-common",
-    "branch": "n7.1"
+    "branch": "o8.0"
   },
   {
     "repository": "sonyxperiadev/boringssl-compat",
@@ -22,32 +22,32 @@
   {
     "repository": "LineageOS/android_device_sony_common",
     "target_path": "device/sony/common",
-    "branch": "cm-14.1"
+    "branch": "lineage-15.0"
   },
   {
     "repository": "LineageOS/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch": "cm-14.1"
+    "branch": "lineage-15.0"
   },
   {
     "repository": "LineageOS/android_hardware_sony_thermanager",
     "target_path": "hardware/sony/thermanager",
-    "branch": "cm-14.1"
+    "branch": "lineage-15.0"
   },
   {
 
     "repository": "LineageOS/android_hardware_sony_macaddrsetup",
     "target_path": "hardware/sony/macaddrsetup",
-    "branch": "cm-14.1"
+    "branch": "lineage-15.0"
   },
   {
     "repository": "LineageOS/android_external_stlport",
     "target_path": "external/stlport",
-    "branch": "cm-14.1"
+    "branch": "lineage-15.0"
   },
   {
     "repository": "AICP/proprietary_vendor_sony",
     "target_path": "vendor/sony",
-    "branch": "n7.1"
+    "branch": "o8.0"
   }
 ]
