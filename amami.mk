@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
 
 # Audio
 PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/audio/mixer_paths.xml:system/etc/mixer_paths.xml
+   $(LOCAL_PATH)/audio/mixer_paths.xml:system/vendor/etc/mixer_paths.xml
 
 # Sensors
 PRODUCT_COPY_FILES += \
@@ -45,7 +45,7 @@ PRODUCT_COPY_FILES += \
 
 # Thermal manager
 PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/configs/thermanager.xml:system/etc/thermanager.xml
+   $(LOCAL_PATH)/configs/thermanager.xml:system/vendor/etc/thermanager.xml
 
 TARGET_SYSTEM_PROP += device/sony/amami/system.prop
 
