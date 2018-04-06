@@ -1,0 +1,20 @@
+# frameworks/av: legacy camera fixes
+63113/2 http://gerrit.aicp-rom.com frameworks/av
+63116/2 http://gerrit.aicp-rom.com frameworks/av
+63119/2 http://gerrit.aicp-rom.com frameworks/av
+63122/2 http://gerrit.aicp-rom.com frameworks/av
+63125/2 http://gerrit.aicp-rom.com frameworks/av
+63125/2 http://gerrit.aicp-rom.com frameworks/av
+63128/2 http://gerrit.aicp-rom.com frameworks/av
+63131/2 http://gerrit.aicp-rom.com frameworks/av
+63134/2 http://gerrit.aicp-rom.com frameworks/av
+63137/2 http://gerrit.aicp-rom.com frameworks/av
+63143/2 http://gerrit.aicp-rom.com frameworks/av
+65162/1 http://gerrit.aicp-rom.com frameworks/av
+65165/1 http://gerrit.aicp-rom.com frameworks/av
+#65168/1 http://gerrit.aicp-rom.com frameworks/av
+# hardware/qcom/media-caf/msm8974: legacy video recording fix
+65156/1 http://gerrit.aicp-rom.com hardware/qcom/media-caf/msm8974
+# device/sony/msm8974-common: legacy video recording fix
+63644/5 http://gerrit.aicp-rom.com device/sony/msm8974-common
+63647/5 http://gerrit.aicp-rom.com device/sony/msm8974-common
