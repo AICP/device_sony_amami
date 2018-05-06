@@ -25,6 +25,9 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/amami/include
 
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/sony/amami/bluetooth
 
+# exFAT
+TARGET_EXFAT_DRIVER := exfat
+
 # Kernel properties
 TARGET_KERNEL_CONFIG := lineageos_rhine_amami_row_defconfig
 
