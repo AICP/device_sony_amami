@@ -1,2 +1,0 @@
-# Camera: check metadata type before releasing frame
-66611/1 http://gerrit.aicp-rom.com frameworks/av
