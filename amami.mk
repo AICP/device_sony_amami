@@ -52,8 +52,5 @@ TARGET_SYSTEM_PROP += device/sony/amami/system.prop
 # setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
-# setup HWUI configs
-$(call inherit-product, frameworks/native/build/phone-xxhdpi-3072-hwui-memory.mk)
-
 # Include non-opensource parts
 $(call inherit-product, vendor/sony/amami/amami-vendor.mk)
