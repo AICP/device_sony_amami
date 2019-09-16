@@ -1,2 +1,0 @@
-# policy_hal: Adapt to AudioMix API changes in f/av audiopolicy
-252619/2 https://review.lineageos.org vendor/qcom/opensource/audio
