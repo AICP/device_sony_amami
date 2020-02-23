@@ -2,6 +2,6 @@
   {
     "repository": "AICP/device_sony_rhine-common",
     "target_path": "device/sony/rhine-common",
-    "branch": "p9.0"
+    "branch": "q10.0"
   }
 ]
